@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate with people who know more than me
 - I have no budget to pay for fee's.
-- 📫 You to reach me here
+- 📫 You can reach me here ...
 
 <!---
 almightygooseman/almightygooseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
